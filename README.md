@@ -47,6 +47,6 @@ Highly recommend using Visual Code Studios, as it supports these files. Download
 3) The page will open in your browser and should function.
 
 # Contact
-For any questions or clarifications, feel free to contact me through these:
+For any questions or clarifications, feel free to contact me through these for the quickest response:
 - Email: dianeletrinh@csu.fulllerton.edu
 - Discord: dipi#6641
