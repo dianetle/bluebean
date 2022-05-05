@@ -1,5 +1,5 @@
 # bluebean
-Find the best Cafes suited for your needs!
+Find the best cafes suited for your needs!
 
 # Project Description
 Bluebean is a website that will help people find the best study cafes based on their personal preferences, whether that be how good the coffee is, how fast the wifi is, how much work space there is, parking accessibility, etc. Fellow cafe enthusiasts can leave ratings and reviews so that others can refer to them for better decision making.
