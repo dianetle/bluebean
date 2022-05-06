@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Yeseva One;
+  }
+
+.page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+.content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  }
+
+/*Title*/
+#headerImg{
+    order: 2;
+    justify-content: center;
+}
+
+/* Navigation */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #91cdff;
+  }
+  
+  .nav-items li {
+    float: left;
+  }
+  
+  .nav-items li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Menu option changes color when hovered over */
+  .nav-items li a:hover {
+    background-color: #566f81;
+};
+
+
+
+html, body {
+    display: grid;
+    height: 658px; 
+    width: 100%;
+    box-sizing: border-box;
+    place-items: center;
+    background: #ffffff;
+}
+  
+.header-container {
+    padding: 30px;
+    text-align: center;
+    color: #91cdff;
+    font-size: 20px;
+  }
+
+  /* Container for flexboxes */
+section {
+    display: -webkit-flex;
+    display: flex;
+    
+  }
+
+  /* Style the content */
+article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    color: #000000;
+    font-size: 14px;
+  }
+  
+  
+/* Style the footer */
+footer {
+    background-color: #91cdff;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 4rem;            /* Footer height */
+      }
+  
+
+  /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    section {
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+  }
+
+
+/* Photo Gallery */
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: #91cdff;
+  font-size: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 10px;
+  float: left;
+  width: 33%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
