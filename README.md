@@ -2,7 +2,7 @@
 Find the best cafes suited for your needs!
 
 # Project Description
-Bluebean is a website that will help people find the best study cafes based on their personal preferences, whether that be how good the coffee is, how fast the wifi is, how much work space there is, parking accessibility, etc. Fellow cafe enthusiasts can leave ratings and reviews so that others can refer to them for better decision making.
+Bluebean is a blog website where I share my experience with cafes and how they aligned with my studying or working preferences. It is a site that will help people find the best study cafes based on their personal preferences, whether that be how good the coffee is, how fast the wifi is, how much work space there is, parking accessibility, etc. Fellow cafe enthusiasts can leave ratings and reviews so that others can refer to them for better decision making.
 
 ### Interested in Contributing?
 As of right now, this is open for contribution, and priority will be given to CPSC 362 students only, but it will be open to everyone soon.
