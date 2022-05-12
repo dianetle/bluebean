@@ -25,11 +25,11 @@ nav ul {
     float: left;
   }
   
-  .nav-items li a {
+.nav-items li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 50px;
     text-decoration: none;
   }
   
